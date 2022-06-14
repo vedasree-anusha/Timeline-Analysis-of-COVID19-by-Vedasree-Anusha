@@ -1,6 +1,6 @@
-# Timeline Analysis of COVID19 - Sparks Foundation - Task 8
+# Timeline Analysis of COVID19 - Sparks Foundation
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
-# Task 6
+# Task 8
 * Create a storyboard showing spread of COVID19 cases in your country or any region using Tableau or Power BI
 * Use animation, timeline and annotations to create attractive and interactive dashboards and story
 * Identify interesting patterns and possible reasons helping COVID19 spread
