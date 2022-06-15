@@ -5,6 +5,7 @@ This repository contains the task that I completed while working as an intern fo
 * Use animation, timeline and annotations to create attractive and interactive dashboards and story
 * Identify interesting patterns and possible reasons helping COVID19 spread
 * Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+* Dashboard can be visualized at https://public.tableau.com/app/profile/vedasree.anusha/viz/COVID19_DASHBOARD_16552720752020/Dashboard?publish=yes from Tableau Public
 # References - 
 * Tableau
 
